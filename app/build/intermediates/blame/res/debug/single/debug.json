@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_txt.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xhdpi\\txt.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_txtwhite.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-hdpi\\txtwhite.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_txtwhite.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxhdpi\\txtwhite.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logindoodle.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-hdpi\\logindoodle.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_carc.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\drawable-v24\\carc.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_loginwhite.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-mdpi\\loginwhite.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logindoodle.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xhdpi\\logindoodle.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_txt.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxxhdpi\\txt.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logindoodle.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxhdpi\\logindoodle.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logindood.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-mdpi\\logindood.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_txtwhite.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xhdpi\\txtwhite.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_loginbtn.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-hdpi\\loginbtn.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_carf.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\drawable-v24\\carf.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_signup.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxhdpi\\signup.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_loginbtn.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxhdpi\\loginbtn.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_signup.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-hdpi\\signup.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_signup.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-mdpi\\signup.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_carb.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\drawable-v24\\carb.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_txtwhite.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxxhdpi\\txtwhite.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_loginwhite.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxxhdpi\\loginwhite.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_care.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\drawable-v24\\care.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logindood.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxxhdpi\\logindood.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logindood.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxhdpi\\logindood.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_loginwhite.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xhdpi\\loginwhite.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_loginwhite.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxhdpi\\loginwhite.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_txtwhite.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-mdpi\\txtwhite.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_loginbtn.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xhdpi\\loginbtn.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_signup.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxxhdpi\\signup.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cara.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\drawable-v24\\cara.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_signup.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xhdpi\\signup.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_txt.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-mdpi\\txt.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_loginbtn.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxxhdpi\\loginbtn.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_card.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\drawable-v24\\card.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_txt.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxhdpi\\txt.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logindoodle.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxxhdpi\\logindoodle.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_loginwhite.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-hdpi\\loginwhite.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_txt.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-hdpi\\txt.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_loginbtn.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-mdpi\\loginbtn.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logindoodle.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-mdpi\\logindoodle.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logindood.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-hdpi\\logindood.png"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout_card.xml.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\layout\\card.xml"
+    },
+    {
+        "merged": "D:\\coding\\Quiz App\\Studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logindood.png.flat",
+        "source": "D:\\coding\\Quiz App\\Studio\\app\\src\\main\\res\\mipmap-xhdpi\\logindood.png"
+    }
+]
