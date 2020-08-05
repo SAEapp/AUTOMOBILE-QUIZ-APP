@@ -4,10 +4,13 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.os.Handler;
 import android.text.TextUtils;
 import android.view.View;
+import android.view.animation.AlphaAnimation;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -29,6 +32,8 @@ public class Login extends AppCompatActivity {
   TextView mCreateBtn,forgotTextLink;
   ProgressBar progressBar;
   FirebaseAuth fAuth;
+  private Handler handler= new Handler();
+  ImageView imageViewmain, imageViewsecond;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -46,6 +51,10 @@ public class Login extends AppCompatActivity {
        mLoginBtn=findViewById(R.id.loginBtn);
        mCreateBtn=findViewById(R.id.createText);
        forgotTextLink=findViewById(R.id.forgotPassword);
+       imageViewmain=findViewById(R.id.imageView2);
+
+
+
 
        mLoginBtn.setOnClickListener(new View.OnClickListener() {
            @Override
@@ -85,7 +94,20 @@ public class Login extends AppCompatActivity {
         mCreateBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(getApplicationContext(),Register.class));
+                /*AlphaAnimation alphaAnimation = new AlphaAnimation(1f, 0f);
+                alphaAnimation.setDuration(400);
+                alphaAnimation.setStartOffset(0);
+                alphaAnimation.setFillAfter(true);
+                mEmail.startAnimation(alphaAnimation);
+                mPassword.startAnimation(alphaAnimation);
+                mLoginBtn.startAnimation(alphaAnimation);
+                forgotTextLink.startAnimation(alphaAnimation);
+                mCreateBtn.startAnimation(alphaAnimation);*/
+
+                handler.postDelayed(launchTask,0);
+
+
+
             }
         });
         forgotTextLink.setOnClickListener(new View.OnClickListener() {
@@ -126,4 +148,12 @@ public class Login extends AppCompatActivity {
         });
 
     }
+
+    private Runnable launchTask = new Runnable() {
+        public void run() {
+            Intent i = new Intent(getApplicationContext(),Register.class);
+            startActivity(i);
+            overridePendingTransition(android.R.anim.fade_in, R.anim.zoom);
+        }
+    };
 }

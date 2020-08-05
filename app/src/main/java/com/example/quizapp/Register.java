@@ -1,11 +1,14 @@
 package com.example.quizapp;
 
+import android.animation.ObjectAnimator;
 import android.content.Intent;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
+import android.view.animation.AlphaAnimation;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -24,6 +27,7 @@ public class Register extends AppCompatActivity {
     TextView mLoginBtn;
     FirebaseAuth fAuth;
     ProgressBar progressBar;
+    ImageView imageView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,6 +42,27 @@ public class Register extends AppCompatActivity {
         mLoginBtn=findViewById(R.id.createText);
         fAuth= FirebaseAuth.getInstance();
         progressBar=findViewById(R.id.progressBar);
+        imageView=findViewById(R.id.imageView);
+
+        AlphaAnimation alphaAnimation= new AlphaAnimation(0.5f,1f);
+        alphaAnimation.setDuration(1500);
+        alphaAnimation.setStartOffset(0);
+        alphaAnimation.setFillAfter(true);
+        imageView.startAnimation(alphaAnimation);
+        mFullName.startAnimation(alphaAnimation);
+        mEmail.startAnimation(alphaAnimation);
+        mPassword.startAnimation(alphaAnimation);
+        mPhone.startAnimation(alphaAnimation);
+        mRegisterBtn.startAnimation(alphaAnimation);
+        mLoginBtn.startAnimation(alphaAnimation);
+
+        imageView.setTranslationY(-600f);
+        ObjectAnimator animation = ObjectAnimator.ofFloat(imageView, "translationY", 0f);
+        animation.setDuration(2000);
+        animation.start();
+
+
+
 
         if (fAuth.getCurrentUser() != null){
             startActivity(new Intent(getApplicationContext(), MainActivity.class));
@@ -80,6 +105,7 @@ public class Register extends AppCompatActivity {
                     @Override
                     public void onClick(View v) {
                         startActivity(new Intent(getApplicationContext(), Login.class));
+                        overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
                     }
                 });
     }
